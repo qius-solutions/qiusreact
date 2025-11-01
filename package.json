@@ -54,7 +54,7 @@
         "@stackblitz/sdk": "1.9.0",
         "@svgr/webpack": "^6.5.1",
         "@testing-library/jest-dom": "^5.16.5",
-        "@testing-library/react": "^13.4.0",
+        "@testing-library/react": "^16.3.0",
         "@testing-library/user-event": "^14.4.3",
         "@types/node": "^20.2.5",
         "@types/react": "^18.2.8",
